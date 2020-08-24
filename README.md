@@ -15,7 +15,7 @@ Calculates Monthly Bond Installment and Investment Amount after a certain term
 The program was designed to help anyone who wishes to do a quick calculation for an investment or Bond repayment.
 A friendly user program.
 Accurate results for any calculation.
-User can do calculations for as long they want till they satisfied with the results.
+User can do calculations for as long they want with different inputs till they satisfied with the results.
 
 ## Screenshots
 ### Certain section of code behind program
